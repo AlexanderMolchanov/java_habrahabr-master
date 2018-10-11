@@ -1,10 +1,12 @@
+package java;
+
 import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
 import javax.servlet.http.HttpServlet;
 import java.util.ArrayList;
 
-import Databases.SQLiteClass;
+import java.Databases.SQLiteClass;
 import org.json.JSONObject;
 
 public class MainServlet extends HttpServlet {
