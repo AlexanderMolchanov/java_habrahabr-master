@@ -1,4 +1,4 @@
-package Databases;
+package java.Databases;
 
 import javax.naming.NamingException;
 import java.sql.*;
